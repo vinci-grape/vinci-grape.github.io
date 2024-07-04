@@ -76,5 +76,5 @@ In 2024, I lead or participate in the following research topics:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - Present*, [State Key Laboratory of Blockchain and Data Security], Hangzhou.
-- *2023.07 - 2023.10*, [Huawei], Hangzhou.
+- *2024.06 - Present*, [State Key Laboratory of Blockchain and Data Security](), Hangzhou.
+- *2023.07 - 2023.10*, [Huawei](), Hangzhou.
