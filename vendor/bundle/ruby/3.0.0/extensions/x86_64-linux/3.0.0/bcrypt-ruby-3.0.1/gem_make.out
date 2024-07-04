@@ -1,0 +1,26 @@
+current directory: /home/vinci/xinyin.github.io/vendor/bundle/ruby/3.0.0/gems/bcrypt-ruby-3.0.1/ext/mri
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240704-79717-w6btmu.rb extconf.rb
+creating Makefile
+
+current directory: /home/vinci/xinyin.github.io/vendor/bundle/ruby/3.0.0/gems/bcrypt-ruby-3.0.1/ext/mri
+make DESTDIR\= clean
+
+current directory: /home/vinci/xinyin.github.io/vendor/bundle/ruby/3.0.0/gems/bcrypt-ruby-3.0.1/ext/mri
+make DESTDIR\=
+compiling bcrypt_ext.c
+bcrypt_ext.c: In function ‘bcrypt_wrapper’:
+bcrypt_ext.c:27:19: warning: implicit declaration of function ‘ruby_bcrypt’; did you mean ‘ruby_script’? [-Wimplicit-function-declaration]
+   27 |     return (VALUE)ruby_bcrypt(args->output, args->key, args->salt);
+      |                   ^~~~~~~~~~~
+      |                   ruby_script
+compiling crypt.c
+compiling crypt_blowfish.c
+compiling crypt_gensalt.c
+compiling wrapper.c
+wrapper.c:27:10: fatal error: util.h: No such file or directory
+   27 | #include <util.h>
+      |          ^~~~~~~~
+compilation terminated.
+make: *** [Makefile:245: wrapper.o] Error 1
+
+make failed, exit code 2

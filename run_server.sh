@@ -1,1 +1,2 @@
+# export JEKYLL_GITHUB_TOKEN=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
 bundle exec jekyll liveserve
