@@ -61,7 +61,7 @@ In 2024, I lead or participate in the following research topics:
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](), **Xin Yin**, Chao Ni, Shaohua Wang, **Arxiv**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](), Chao Ni, **Xin Yin**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, **Xin Yin**, Lexiao Zhang, **ICPC 2023, CCF-B**
-- [Spatio-temporal aware knowledge graph embedding for recommender systems](), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
+- [Spatio-temporal aware knowledge graph embedding for recommender systems](), Liu Yang, **Xin Yin**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
