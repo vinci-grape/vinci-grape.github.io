@@ -24,8 +24,9 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 My research interest includes **Software Testing, Software Security, and Software Analytics**. I have published papers at the top international conferences such as **FSE/ISSTA**. I developed a few well-known approaches including:
-- SVulD and MVulD: vulnerability detection
-- ThinkRepair: program repair
+- [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): vulnerability detection
+- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): program repair
+- [Rectifier](https://github.com/vinci-grape/Rectifier): code translation
 <!-- - AudioGPT, UniAudio, Make-A-Voice: Multitask, Multilingual LLMs -->
 <!-- - Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis -->
 <!-- - FastDiff 1/2, ProDiff: AIGC diffusion models -->
@@ -56,9 +57,10 @@ In 2024, I lead or participate in the following research topics:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+- [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/abs/2407.07472), **Xin Yin**, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **Arxiv**
 - [ThinkRepair: Self-Directed Automated Program Repair](), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
+- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/abs/2404.03994), **Xin Yin**, **Arxiv**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, **Xin Yin**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, **Xin Yin**, Lexiao Zhang, **ICPC 2023, CCF-B**
 - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, **Xin Yin**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
