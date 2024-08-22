@@ -58,11 +58,11 @@ In 2024, I lead or participate in the following research topics:
 </div>
 </div> -->
 ## Preprints
-- [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
+- [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://arxiv.org/pdf/2408.07526), Chao Ni, Liyu Shen, Xiaodan Xu, **Xin Yin**, Shaohua Wang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), **Xin Yin**, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **Arxiv**
-- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv**
+<!-- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv** -->
 
 ## Peer-Reviewed
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
