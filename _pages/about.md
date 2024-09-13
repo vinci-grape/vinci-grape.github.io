@@ -38,6 +38,7 @@ In 2024, I lead or participate in the following research topics:
 <!-- - Diffusion models: Image/Audio/3D -->
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉 One paper was accepted by TSE!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
 - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023!
@@ -62,12 +63,12 @@ In 2024, I lead or participate in the following research topics:
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://arxiv.org/pdf/2408.07526), Chao Ni, Liyu Shen, Xiaodan Xu, **Xin Yin**, Shaohua Wang, **Arxiv**
 <!-- - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Zhi Yu, **Xin Yin**, Chao Ni, Xiaodan Xu, **Arxiv** -->
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), **Xin Yin**, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
-- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **Arxiv**
+<!-- - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **Arxiv** -->
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv**
 
 ## Peer-Reviewed
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
-<!-- - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **TSE, CCF-A** -->
+- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **TSE, CCF-A** -->
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, **Xin Yin**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, **Xin Yin**, Lexiao Zhang, **ICPC 2023, CCF-B**
 - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, **Xin Yin**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
