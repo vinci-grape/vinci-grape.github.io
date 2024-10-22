@@ -38,14 +38,14 @@ In 2024, I lead or participate in the following research topics:
 <!-- - Diffusion models: Image/Audio/3D -->
 
 # 🔥 News
-# - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024!
+<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
 - *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023!
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
-# - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023!
-# - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! 
+<!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
+<!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
 # 📝 Publications
 <!-- * denotes co-first authors, # denotes co-supervised -->
