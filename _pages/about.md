@@ -42,7 +42,7 @@ In 2024, I lead or participate in the following research topics:
 - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
-- *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023!
+<!-- - *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023! -->
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
 <!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
 <!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
@@ -75,7 +75,7 @@ In 2024, I lead or participate in the following research topics:
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, **Xin Yin**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 <!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, **Xin Yin**, Lexiao Zhang, **ICPC 2023, CCF-B** -->
-- [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, **Xin Yin**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
+<!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, **Xin Yin**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
