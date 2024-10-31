@@ -23,10 +23,11 @@ redirect_from:
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interest includes **Software Testing, Software Security, and Software Analytics**. I have published papers at the top international conferences such as **FSE/ISSTA**. I developed a few well-known approaches including:
+My research interest includes **Software Testing, Software Security, and Software Analytics**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE**. I developed a few well-known approaches including:
 - [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): vulnerability detection
 - [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): program repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier): code translation
+- [AUGER](): unit test generation
 <!-- - AudioGPT, UniAudio, Make-A-Voice: Multitask, Multilingual LLMs -->
 <!-- - Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis -->
 <!-- - FastDiff 1/2, ProDiff: AIGC diffusion models -->
