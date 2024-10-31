@@ -39,6 +39,7 @@ In 2024, I lead or participate in the following research topics:
 
 # 🔥 News
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
+- *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
@@ -71,6 +72,7 @@ In 2024, I lead or participate in the following research topics:
 
 ## Peer-Reviewed
 <!-- - [Automatic Commit Range Identification of Untagged Version](), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, **Xin Yin**, Chao Ni, **APSEC 2024, CCF-C** -->
+- [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](), **Xin Yin**, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, **Xin Yin**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
