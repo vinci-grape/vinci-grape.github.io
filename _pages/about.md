@@ -27,7 +27,7 @@ My research interest includes **Software Testing, Software Security, and Softwar
 - [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): vulnerability detection
 - [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): program repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier): code translation
-- [AUGER](): unit test generation
+- [AUGER](https://github.com/vinci-grape/AUGER): unit test generation
 <!-- - AudioGPT, UniAudio, Make-A-Voice: Multitask, Multilingual LLMs -->
 <!-- - Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis -->
 <!-- - FastDiff 1/2, ProDiff: AIGC diffusion models -->
@@ -66,7 +66,7 @@ In 2024, I lead or participate in the following research topics:
 ## Preprints
 - [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 <!-- - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://arxiv.org/pdf/2408.07526), Chao Ni, Liyu Shen, Xiaodan Xu, **Xin Yin**, Shaohua Wang, **Arxiv** -->
-<!-- - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Zhi Yu, **Xin Yin**, Chao Ni, Xiaodan Xu, **Arxiv** -->
+- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Zhi Yu, **Xin Yin**, Chao Ni, Xiaodan Xu, **Arxiv** -->
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), **Xin Yin**, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 <!-- - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv** -->
 
