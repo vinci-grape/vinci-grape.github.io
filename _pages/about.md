@@ -50,7 +50,7 @@ In 2024, I lead or participate in the following research topics:
 <!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
 # 📝 Publications
-* # denotes co-first author or student first auther
+\# denotes co-first author or student first auther
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
