@@ -65,7 +65,7 @@ In 2024, I lead or participate in the following research topics:
 </div> -->
 ## Preprints
 - [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Global Contextual Information Injection](), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
-- [Reasoning to Attend: Try to Understand How <SEG> Token Works](), Rui Qian, **Xin Yin#**, Dejing Dou, **Arxiv**
+- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](), Rui Qian, **Xin Yin#**, Dejing Dou, **Arxiv**
 - [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 <!-- - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://arxiv.org/pdf/2408.07526), Chao Ni, Liyu Shen, Xiaodan Xu, **Xin Yin**, Shaohua Wang, **Arxiv** -->
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, **Xin Yin\#**, Xiaodan Xu, **Arxiv**
