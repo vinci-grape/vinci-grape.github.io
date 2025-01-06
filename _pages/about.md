@@ -49,7 +49,7 @@ In 2024, I lead or participate in the following research topics:
 <!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
 <!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
-# 📝 Publications
+# 📝 Selected Publications
 **\# denotes co-first author or first student author**
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
