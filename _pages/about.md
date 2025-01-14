@@ -27,7 +27,7 @@ My research interest includes **Software Testing, Software Security, and Softwar
 - [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): vulnerability detection
 - [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): program repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier): code translation
-- [AUGER](https://github.com/vinci-grape/AUGER): unit test generation
+- [AUGER](https://github.com/vinci-grape/AUGER) and [RATester](): unit test generation
 <!-- - AudioGPT, UniAudio, Make-A-Voice: Multitask, Multilingual LLMs -->
 <!-- - Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis -->
 <!-- - FastDiff 1/2, ProDiff: AIGC diffusion models -->
@@ -64,7 +64,7 @@ In 2024, I lead or participate in the following research topics:
 </div>
 </div> -->
 ## Preprints
-- [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Global Contextual Information Injection](), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
+- [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, **Xin Yin**, Dejing Dou, **Arxiv**
 - [Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection_an_extensive_study.pdf), Chao Ni, **Xin Yin\#**, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
