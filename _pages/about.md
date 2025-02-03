@@ -87,7 +87,7 @@ In 2024, I lead or participate in the following research topics:
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. student, Zhejiang University. 
-- *2018.09 - 2022.06*, Bachelor, Central South University. 
+<!-- - *2018.09 - 2022.06*, Bachelor, Central South University. -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
