@@ -39,9 +39,10 @@ In 2024, I lead or participate in the following research topics:
 <!-- - Diffusion models: Image/Audio/3D -->
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
-- *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024!
+<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
 <!-- - *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023! -->
@@ -67,7 +68,6 @@ In 2024, I lead or participate in the following research topics:
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, **Xin Yin\#**, Gang Wang, Chenhao Ying, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Smart_Contract_Generation.pdf), Zhiyuan Peng, **Xin Yin\#**, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
 - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
-- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, **Xin Yin**, Dejing Dou, **Arxiv**
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, **Xin Yin\#**, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, **Xin Yin\#**, Xiaodan Xu, **Arxiv**
@@ -75,6 +75,7 @@ In 2024, I lead or participate in the following research topics:
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv**
 
 ## Peer-Reviewed
+- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, **Xin Yin**, Dejing Dou, **CVPR 2025, CCF-A**
 <!-- - [Automatic Commit Range Identification of Untagged Version](), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, **Xin Yin**, Chao Ni, **APSEC 2024, CCF-C** -->
 - [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), **Xin Yin**, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
