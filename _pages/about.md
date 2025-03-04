@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xin Yin (殷鑫)** is the second-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at Central South University. 
+**Xin Yin (殷鑫)** is the third-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at Central South University. 
 
 <!-- During my graduate study, I was lucky to collaborate with the CMU Speech Team led by [Prof. Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to intern or collaborate at TikTok, Shanghai AI Lab, Tencent Seattle Lab, Alibaba Qwen, with [Yi Ren](https://github.com/RayeRen), [Jinglin Liu](https://github.com/MoonInTheRiver), [Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ). -->
 
