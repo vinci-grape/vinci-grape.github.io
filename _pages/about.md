@@ -65,7 +65,7 @@ In 2025, I will lead or participate in the following research topics:
 </div>
 </div> -->
 ## Preprints
-- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), **Xin Yin**, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
+- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), **<span style="color: blue;">Xin Yin</span>**, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, **Xin Yin\#**, Gang Wang, Chenhao Ying, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://arxiv.org/pdf/2502.18793), Zhiyuan Peng, **Xin Yin\#**, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
 - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
