@@ -8,35 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 **Xin Yin (殷鑫)** is the third-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at Central South University. 
 
-<!-- During my graduate study, I was lucky to collaborate with the CMU Speech Team led by [Prof. Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to intern or collaborate at TikTok, Shanghai AI Lab, Tencent Seattle Lab, Alibaba Qwen, with [Yi Ren](https://github.com/RayeRen), [Jinglin Liu](https://github.com/MoonInTheRiver), [Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ). -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/CVPR**. I developed a few well-known approaches including:
-- [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): vulnerability detection
-- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): program repair
-- [Rectifier](https://github.com/vinci-grape/Rectifier): code translation
-- [AUGER](https://github.com/vinci-grape/AUGER) and [RATester](): unit test generation
-<!-- - AudioGPT, UniAudio, Make-A-Voice: Multitask, Multilingual LLMs -->
-<!-- - Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis -->
-<!-- - FastDiff 1/2, ProDiff: AIGC diffusion models -->
-<!-- - TranSpeech, and AV-TranSpeech: Multimodal Translation -->
+- [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): Vulnerability Detection
+- [CodeGPTSensor+]([https://github.com/vinci-grape/SVulD](https://github.com/vinci-grape/CodeGPTSensor-plus)): LLM-generated Code Detection
+- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): Program Repair
+- [Rectifier](https://github.com/vinci-grape/Rectifier): Code Translation
+- [AUGER](https://github.com/vinci-grape/AUGER) and [RATester](): Unit Test Generation
 
 In 2025, I will lead or participate in the following research topics:
-- Software Testing: unit test generation
-- Large Language Models (LLMs): knowledge editing
-<!-- - Diffusion models: Image/Audio/3D -->
+- Software Testing: Unit Test Generation
+- Large Language Models (LLMs): Knowledge Editing
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
@@ -65,23 +50,23 @@ In 2025, I will lead or participate in the following research topics:
 </div>
 </div> -->
 ## Preprints
-- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <font color="blue">Xin Yin</font>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
-- [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, **Xin Yin\#**, Gang Wang, Chenhao Ying, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
-- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://arxiv.org/pdf/2502.18793), Zhiyuan Peng, **Xin Yin\#**, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
-- [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), **Xin Yin**, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
-- [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), **Xin Yin**, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
+- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <font color="blue">**Xin Yin**</font>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
+- [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, <font color="blue">**Xin Yin\#**</font>, Gang Wang, Chenhao Ying, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
+- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://arxiv.org/pdf/2502.18793), Zhiyuan Peng, <font color="blue">**Xin Yin\#**</font>, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
+- [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), <font color="blue">**Xin Yin**</font>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
+- [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), <font color="blue">**Xin Yin**</font>, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, **Xin Yin\#**, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
-- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, **Xin Yin\#**, Xiaodan Xu, **Arxiv**
-- [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), **Xin Yin**, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
-- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv**
+- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, <font color="blue">**Xin Yin\#**</font>, Xiaodan Xu, **Arxiv**
+- [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), <font color="blue">**Xin Yin**</font>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
+<!-- - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), **Xin Yin**, **Arxiv** -->
 
 ## Peer-Reviewed
-- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, **Xin Yin**, Dejing Dou, **CVPR 2025, CCF-A**
+- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, <font color="blue">**Xin Yin**</font>, Dejing Dou, **CVPR 2025, CCF-A**
 <!-- - [Automatic Commit Range Identification of Untagged Version](), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, **Xin Yin**, Chao Ni, **APSEC 2024, CCF-C** -->
-- [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), **Xin Yin**, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
-- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), **Xin Yin**, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
-- [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), **Xin Yin**, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
-- [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, **Xin Yin\#**, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
+- [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), <font color="blue">**Xin Yin**</font>, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
+- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), <font color="blue">**Xin Yin**</font>, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
+- [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), <font color="blue">**Xin Yin**</font>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
+- [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <font color="blue">**Xin Yin\#**</font>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 <!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, **Xin Yin**, Lexiao Zhang, **ICPC 2023, CCF-B** -->
 <!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, **Xin Yin\#**, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
 
