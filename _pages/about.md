@@ -56,7 +56,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
-- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, <span style="color: blue;">**Xin Yin**</span>, Xiaodan Xu, **Arxiv**
+- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 <!-- - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), <span style="color: blue;">**Xin Yin**</span>, **Arxiv** -->
 
