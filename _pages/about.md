@@ -58,7 +58,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
-<!-- - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), <span style="color: blue;">**Xin Yin**</span>, **Arxiv** -->
+- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
 ## Peer-Reviewed
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou, **CVPR 2025, CCF-A**
