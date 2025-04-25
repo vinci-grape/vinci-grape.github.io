@@ -54,14 +54,14 @@ In 2025, I will lead or participate in the following research topics:
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://arxiv.org/pdf/2502.18793), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
-- [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
+<!-- - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv** -->
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
 ## Peer-Reviewed
-- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **TOSEM 2025, CCF-A**
+- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](https://dl.acm.org/doi/pdf/10.1145/3731557), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **TOSEM 2025, CCF-A**
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou, **CVPR 2025, CCF-A**
 <!-- - [Automatic Commit Range Identification of Untagged Version](), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
 - [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
