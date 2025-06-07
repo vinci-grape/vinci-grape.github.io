@@ -61,7 +61,7 @@ In 2025, I will lead or participate in the following research topics:
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 - `ICSE'25` **What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation**.  
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
+  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang.
   In *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)*, 2025. (<span style="color:red">CCF-A</span>)    
   [[Paper](https://arxiv.org/pdf/2412.00828)]
   [[Slides]()]
