@@ -51,8 +51,8 @@ In 2025, I will lead or participate in the following research topics:
 </div>
 </div> -->
 ## Preprints
-- [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](), Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
-- [Learning to Align Human Code Preferences](), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
+<!-- - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](), Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv** -->
+<!-- - [Learning to Align Human Code Preferences](), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv** -->
 - [A Preference-Driven Methodology for High-Quality Solidity Code Generation](https://arxiv.org/pdf/2506.03006), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Chao Ni, Yuan Luo, **Arxiv**
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
