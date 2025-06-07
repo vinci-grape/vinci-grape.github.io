@@ -60,13 +60,6 @@ In 2025, I will lead or participate in the following research topics:
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
 - [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
-- `ICSE'25` **What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation**.  
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang.
-  In *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE)*, 2025. (<span style="color:red">CCF-A</span>)    
-  [[Paper](https://arxiv.org/pdf/2412.00828)]
-  [[Slides]()]
-  [[Code]()]
-  [[DOI]()]
 <!-- - [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
 <!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B** -->
 <!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
