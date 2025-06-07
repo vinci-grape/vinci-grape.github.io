@@ -38,6 +38,7 @@ In 2025, I will lead or participate in the following research topics:
 
 # 📝 Selected Publications
 **\# denotes co-first author or first student author**
+<span style="color:blue">Representative papers:</span> <span style="color:red">6</span> <span style="color:blue">CCF-A papers
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,6 +51,18 @@ In 2025, I will lead or participate in the following research topics:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+## Peer-Reviewed
+- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](https://dl.acm.org/doi/pdf/10.1145/3731557), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **TOSEM 2025, CCF-A**
+- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou, **CVPR 2025, CCF-A**
+- [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
+- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
+- [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
+- [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
+- [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C**
+- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B**
+- [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
+
 ## Preprints
 <!-- - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](), Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv** -->
 <!-- - [Learning to Align Human Code Preferences](), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv** -->
@@ -63,17 +76,6 @@ In 2025, I will lead or participate in the following research topics:
 - [Learning-based Models for Vulnerability Detection: An Extensive Study](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs](https://arxiv.org/pdf/2407.07472), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability](https://arxiv.org/pdf/2404.03994), <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
-
-## Peer-Reviewed
-- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection](https://dl.acm.org/doi/pdf/10.1145/3731557), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu, **TOSEM 2025, CCF-A**
-- [Reasoning to Attend: Try to Understand How \<SEG\> Token Works](https://arxiv.org/pdf/2412.17741), Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou, **CVPR 2025, CCF-A**
-- [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation](https://arxiv.org/pdf/2412.00828), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang, **ICSE 2025, CCF-A**
-- [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability](https://arxiv.org/pdf/2404.02056), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, **TSE 2024, CCF-A**
-- [ThinkRepair: Self-Directed Automated Program Repair](https://arxiv.org/pdf/2407.20898), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang, **ISSTA 2024, CCF-A**
-- [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
-- [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C**
-- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B**
-- [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
