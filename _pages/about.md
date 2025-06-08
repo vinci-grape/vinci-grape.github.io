@@ -12,7 +12,7 @@ redirect_from:
 
 **Xin Yin (殷鑫)** is the third-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at Central South University. 
 
-My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> at the top international conferences such as **FSE/ISSTA/ICSE/CVPR**. I developed a few well-known approaches including:
+My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/CVPR**. I developed a few well-known approaches including:
 - [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
 - [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): Program Repair
