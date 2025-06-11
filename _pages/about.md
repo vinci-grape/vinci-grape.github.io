@@ -62,7 +62,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation](https://arxiv.org/pdf/2308.11237), Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia, **FSE 2023, CCF-A**
 - `FSE'23` **Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation**.  
   Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia.
-  In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)*, May, 2022. (<span style="color:red">CCF-A</span>)    
+  In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)*, December 2023. (<span style="color:red">CCF-A</span>)    
   [[Paper](https://arxiv.org/pdf/2308.11237)]
   [[Slides]()]
   [[Code]()]
