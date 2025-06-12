@@ -73,12 +73,12 @@ In 2025, I will lead or participate in the following research topics:
 <!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
 
 ## Preprints
-<!-- - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](), Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv** -->
-<!-- - [Learning to Align Human Code Preferences](), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv** -->
+- [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](), Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
+- [Learning to Align Human Code Preferences](), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
+- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [A Preference-Driven Methodology for High-Quality Solidity Code Generation](https://arxiv.org/pdf/2506.03006), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Chao Ni, Yuan Luo, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains](https://arxiv.org/pdf/2502.18258), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation](https://arxiv.org/pdf/2502.18793), Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
-- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training](), <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation](https://arxiv.org/pdf/2505.12079), Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu, **Arxiv**
 - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection](https://arxiv.org/pdf/2501.07425), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience](https://arxiv.org/pdf/2408.08553), <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang, **Arxiv**
