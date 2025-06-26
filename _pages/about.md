@@ -102,9 +102,8 @@ In 2025, I will lead or participate in the following research topics:
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
   <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.06*, 浙江大学争创优秀博士学位论文资助 
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), 2025.
