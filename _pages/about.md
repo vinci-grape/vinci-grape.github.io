@@ -21,7 +21,7 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
-- Large Language Models (LLMs): Knowledge Editing
+- Large Language Models (LLMs): Agent
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
