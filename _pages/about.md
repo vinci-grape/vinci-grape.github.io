@@ -117,5 +117,5 @@ In 2025, I will lead or participate in the following research topics:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - Present*, State Key Laboratory of Blockchain and Data Security, Hangzhou.
+- *2024.06 - 2025.06*, State Key Laboratory of Blockchain and Data Security, Hangzhou.
 - *2023.07 - 2023.10*, Software Engineering Application Technology Lab at Huawei, Hangzhou.
