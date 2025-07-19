@@ -80,10 +80,10 @@ In 2025, I will lead or participate in the following research topics:
   Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
   In *Proceedings of the Asia-Pacific Software Engineering Conference (APSEC'24)*. (<span style="color:red">CCF-C</span>)
 - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072)<br>
-  Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang.
+  Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang.<br>
   In *Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC'23)*. (<span style="color:red">CCF-B</span>)
 - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
-  Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.
+  Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.<br>
   In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
