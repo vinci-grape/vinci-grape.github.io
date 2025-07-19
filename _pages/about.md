@@ -24,19 +24,18 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
-<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
+- *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024!
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
-<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
-<!-- - *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023! -->
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
-<!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
-<!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
+- *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023!
+- *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022!
 
-# 📝 Selected Publications
+# 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
 <span style="color:blue">Representative papers:</span> <span style="color:red">6</span> <span style="color:blue">CCF-A papers</span>
@@ -53,7 +52,7 @@ In 2025, I will lead or participate in the following research topics:
 </div>
 </div> -->
 
-## Peer-Reviewed
+## Selected Publications
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
   Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
@@ -72,9 +71,20 @@ In 2025, I will lead or participate in the following research topics:
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation.](https://arxiv.org/pdf/2308.11237)<br>
   Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia.<br>
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
-<!-- - [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
-<!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B** -->
-<!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
+
+## Peer-Reviewed Publications
+- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs]()<br>
+  Chao Ni, Xiaoya Wang, <span style="color: blue;">**Xin Yin**</span>, Liushan Chen, Guojun Ma.<br>
+  In *Proceedings of the IEEE International Symposium on Software Reliability Engineering (ISSRE'25)*. (<span style="color:red">CCF-B</span>)
+- [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335)<br>
+  Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
+  In *Proceedings of the Asia-Pacific Software Engineering Conference (APSEC'24)*. (<span style="color:red">CCF-C</span>)
+- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072)<br>
+  Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang.
+  In *Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC'23)*. (<span style="color:red">CCF-B</span>)
+- [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
+  Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.
+  In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
 - [Learning to Align Human Code Preferences.]()<br>
