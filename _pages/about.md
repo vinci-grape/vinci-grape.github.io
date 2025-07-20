@@ -73,16 +73,16 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Peer-Reviewed Publications
-- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs]()<br>
+- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.]()<br>
   Chao Ni, Xiaoya Wang, <span style="color: blue;">**Xin Yin**</span>, Liushan Chen, Guojun Ma.<br>
   In *Proceedings of the IEEE International Symposium on Software Reliability Engineering (ISSRE'25)*. (<span style="color:red">CCF-B</span>)
-- [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335)<br>
+- [Automatic Commit Range Identification of Untagged Version.](https://ieeexplore.ieee.org/abstract/document/10967335)<br>
   Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
   In *Proceedings of the Asia-Pacific Software Engineering Conference (APSEC'24)*. (<span style="color:red">CCF-C</span>)
-- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072)<br>
+- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic.](https://ieeexplore.ieee.org/abstract/document/10174072)<br>
   Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang.<br>
   In *Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC'23)*. (<span style="color:red">CCF-B</span>)
-- [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
+- [Spatio-temporal aware knowledge graph embedding for recommender systems.](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
   Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.<br>
   In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
