@@ -54,7 +54,7 @@ In 2025, I will lead or participate in the following research topics:
 
 ## Selected Publications
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu.<br>
+  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Zhi Yu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
@@ -107,8 +107,12 @@ In 2025, I will lead or participate in the following research topics:
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://arxiv.org/pdf/2502.18793)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
+- [Input Reduction Enhanced LLM-based Program Repair.]()<br>
+  Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin, **Arxiv**
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
   Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu, **Arxiv**
+- [SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models.]()<br>
+  Yuqi Li, Yao Lu, Junhao Dong, Zeyu Dong, Chuanguang Yang, <span style="color: blue;">**Xin Yin**</span>, Yihao Chen, Jianping Gou, Yingli Tian, Tingwen Huang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
   <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
