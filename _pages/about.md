@@ -29,11 +29,11 @@ In 2025, I will lead or participate in the following research topics:
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
-- *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024!
+<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
 - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023!
-- *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022!
+<!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
