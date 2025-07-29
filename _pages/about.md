@@ -54,7 +54,7 @@ In 2025, I will lead or participate in the following research topics:
 
 ## Selected Publications
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Zhi Yu.<br>
+  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Xiaodan Xu, Zhi Yu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
@@ -87,7 +87,7 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
-- [Learning to Align Human Code Preferences.]()<br>
+- [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2507.20109)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
   <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
