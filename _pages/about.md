@@ -121,6 +121,7 @@ In 2025, I will lead or participate in the following research topics:
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), 2025.
+- Conference PC Member: ICSE 2026 (Shadow PC)
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. student, Zhejiang University.
