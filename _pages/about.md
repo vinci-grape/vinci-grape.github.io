@@ -73,7 +73,7 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Peer-Reviewed Publications
-- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.]()<br>
+- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.](https://vinci-grape.github.io/papers/A_Cascaded_Pipeline_for_Self_Directed__Model_Agnostic_Unit_Test_Generation_via_LLMs.pdf)<br>
   Chao Ni, Xiaoya Wang, <span style="color: blue;">**Xin Yin**</span>, Liushan Chen, Guojun Ma.<br>
   In *Proceedings of the IEEE International Symposium on Software Reliability Engineering (ISSRE'25)*. (<span style="color:red">CCF-B</span>)
 - [Automatic Commit Range Identification of Untagged Version.](https://ieeexplore.ieee.org/abstract/document/10967335)<br>
