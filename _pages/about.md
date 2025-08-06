@@ -120,8 +120,8 @@ In 2025, I will lead or participate in the following research topics:
 - *2025.06*, 浙江大学争创优秀博士学位论文资助 
 
 # 💬 Academic Services
-- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), 2025.
-- Conference PC Member: ICSE 2026 (Shadow PC)
+- Journal Reviewer: IEEE Transactions on Software Engineering (TSE)
+- Conference PC Member: ICSE 2026 (Shadow PC), AAAI 2026 (PC)
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. student, Zhejiang University.
