@@ -24,6 +24,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
