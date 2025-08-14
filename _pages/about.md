@@ -105,8 +105,6 @@ In 2025, I will lead or participate in the following research topics:
   Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
 - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation.]()<br>
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
-- [A Preference-Driven Methodology for High-Quality Solidity Code Generation.](https://arxiv.org/pdf/2506.03006)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Chao Ni, Yuan Luo, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://arxiv.org/pdf/2502.18793)<br>
