@@ -61,7 +61,7 @@ In 2025, I will lead or participate in the following research topics:
   Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Xiaodan Xu, Zhi Yu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
-  Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
+  Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Dejing Dou.<br>
   In *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
 - [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation.](https://arxiv.org/pdf/2412.00828)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang.<br>
