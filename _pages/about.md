@@ -15,9 +15,10 @@ redirect_from:
 My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP**. I developed a few well-known approaches including:
 - [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): Program Repair
+- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier): Code Translation
-- [AUGER](https://github.com/vinci-grape/AUGER) and [RATester](): Unit Test Generation
+- [AUGER](https://github.com/vinci-grape/AUGER), [RATester](), and [CasModaTest](): Unit Test Generation
+- [SolEval]() and [PrefGen](): Smart Contract Generation
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
