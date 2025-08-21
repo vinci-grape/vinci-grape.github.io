@@ -19,6 +19,7 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 - [Rectifier](https://github.com/vinci-grape/Rectifier): Code Translation
 - [AUGER](https://github.com/vinci-grape/AUGER), [RATester](), and [CasModaTest](): Unit Test Generation
 - [SolEval]() and [PrefGen](): Smart Contract Generation
+- [READ](https://github.com/rui-qian/READ): Reasoning Segmentation
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
