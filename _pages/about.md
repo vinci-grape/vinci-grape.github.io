@@ -24,6 +24,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
 - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
@@ -39,7 +40,7 @@ In 2025, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +55,12 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
+  Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
+  In *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
+- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.]()<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
+  In *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.]()<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
