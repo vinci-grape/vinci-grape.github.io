@@ -111,7 +111,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Xiaodan Xu, Shaohua Wang, **Arxiv**
+  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang, **Arxiv**
 - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation.]()<br>
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
