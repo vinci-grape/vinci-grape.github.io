@@ -57,10 +57,10 @@ In 2025, I will lead or participate in the following research topics:
 ## Selected Publications
 - [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
   Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
-  In *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
+  In *the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.]()<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
-  In *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
+  In *the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.]()<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
@@ -114,8 +114,6 @@ In 2025, I will lead or participate in the following research topics:
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
-- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://arxiv.org/pdf/2502.18793)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, Yongkang Liu, Chenhao Ying, Yuan Luo, **Arxiv**
 - [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
   Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin, **Arxiv**
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
