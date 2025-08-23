@@ -60,7 +60,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
   Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
-- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.]()<br>
+- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.]()<br>
