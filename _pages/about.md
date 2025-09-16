@@ -26,6 +26,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025!
 - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
 - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
@@ -42,7 +43,7 @@ In 2025, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">1</span> <span style="color:blue">TH-CPL-A paper</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A paper,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 paper</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,8 +58,14 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
+  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
+  In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
+  In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
+- [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
+  Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://vinci-grape.github.io/papers/PrefGen.pdf)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
@@ -83,9 +90,6 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Peer-Reviewed Publications
-- [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
-  Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
-  In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.](https://vinci-grape.github.io/papers/A_Cascaded_Pipeline_for_Self_Directed__Model_Agnostic_Unit_Test_Generation_via_LLMs.pdf)<br>
   Chao Ni, Xiaoya Wang, <span style="color: blue;">**Xin Yin**</span>, Liushan Chen, Guojun Ma.<br>
   In *Proceedings of the IEEE International Symposium on Software Reliability Engineering (ISSRE'25)*. (<span style="color:red">CCF-B</span>)
@@ -110,8 +114,6 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
-- [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang, **Arxiv**
 - [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation.](http://arxiv.org/pdf/2508.17720)<br>
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
