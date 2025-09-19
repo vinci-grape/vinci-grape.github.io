@@ -59,31 +59,31 @@ In 2025, I will lead or participate in the following research topics:
 
 ## Selected Publications
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
+  Chao Ni, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
+  Zhiyuan Peng, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://vinci-grape.github.io/papers/PrefGen.pdf)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
+  Zhiyuan Peng, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Xiaodan Xu, Zhi Yu.<br>
+  Chao Ni, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Xinrui Li, Xiaodan Xu, Zhi Yu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
-  Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Dejing Dou.<br>
+  Rui Qian, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
 - [What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation.](https://arxiv.org/pdf/2412.00828)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang.<br>
+  <span style="color: #ff00fc;">**Xin Yin**</span>, Chao Ni, Xiaodan Xu, Xiaohu Yang.<br>
   In *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE'25)*. (<span style="color:red">CCF-A</span>)
 - [Multitask-based Evaluation of Open-Source LLM on Software Vulnerability.](https://arxiv.org/pdf/2404.02056)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang.<br>
+  <span style="color: #ff00fc;">**Xin Yin**</span>, Chao Ni, Shaohua Wang.<br>
   In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A</span>)
 - [ThinkRepair: Self-Directed Automated Program Repair.](https://arxiv.org/pdf/2407.20898)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang.<br>
+  <span style="color: #ff00fc;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang.<br>
   In *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)*. (<span style="color:red">CCF-A</span>)
 - [Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation.](https://arxiv.org/pdf/2308.11237)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia.<br>
+  Chao Ni, <span style="color: #ff00fc;">**Xin Yin\#**</span>, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia.<br>
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Peer-Reviewed Publications
