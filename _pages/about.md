@@ -110,7 +110,7 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
 - [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection.](https://arxiv.org/pdf/2501.07425)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
-- [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.]([https://arxiv.org/pdf/2408.08553](https://vinci-grape.github.io/papers/Improving_the_Ability_of_Pre_trained_Language_Model_by_Imparting_Large_Language_Model_s_Experience.pdf))<br>
+- [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://vinci-grape.github.io/papers/Improving_the_Ability_of_Pre_trained_Language_Model_by_Imparting_Large_Language_Model_s_Experience.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
