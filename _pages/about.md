@@ -89,10 +89,10 @@ In 2025, I will lead or participate in the following research topics:
 ## Peer-Reviewed Publications
 - [Enhancing Commit Classification for Software Maintenance with Adversarial Learning.]()<br>
   Xinrui Li, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
-  In *Proceddings of the 32nd Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
+  In *Proceddings of the Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
 - [Reliable Code Generation with Test Case Prioritization and Cognitive Validation.]()<br>
   Lingyun Huang, <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni.<br>
-  In *Proceddings of the 32nd Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
+  In *Proceddings of the Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
 - [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
   Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
