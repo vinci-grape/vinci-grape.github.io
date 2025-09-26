@@ -26,6 +26,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
 - *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025!
 - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
 - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
@@ -58,6 +59,12 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection.](https://arxiv.org/pdf/2501.07425)<br>
+  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang.<br>
+  In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
+- [yrinth: Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
+  Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
+  In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
@@ -114,8 +121,6 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
   <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
-- [Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection.](https://arxiv.org/pdf/2501.07425)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang, **Arxiv**
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://vinci-grape.github.io/papers/Improving_the_Ability_of_Pre_trained_Language_Model_by_Imparting_Large_Language_Model_s_Experience.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang, **Arxiv**
 - [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
