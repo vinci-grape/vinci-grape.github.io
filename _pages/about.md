@@ -62,7 +62,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection.](https://arxiv.org/pdf/2501.07425)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
-- [yrinth: Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
+- [Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
