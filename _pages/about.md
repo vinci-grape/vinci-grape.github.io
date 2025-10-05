@@ -60,10 +60,10 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
-- [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection.](https://arxiv.org/pdf/2501.07425)<br>
+- [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection.](https://vinci-grape.github.io/papers/Enhancing_LLM_s_Ability_to_Generate_More_Repository_Aware_Unit_Tests_Through_Precise_Context_Injection.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
-- [Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
+- [Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models.](https://arxiv.org/pdf/2509.23812)<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
@@ -72,7 +72,7 @@ In 2025, I will lead or participate in the following research topics:
 - [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
-- [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://vinci-grape.github.io/papers/PrefGen.pdf)<br>
+- [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://arxiv.org/pdf/2506.03006v3)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
