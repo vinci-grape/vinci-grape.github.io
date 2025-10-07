@@ -17,9 +17,9 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
 - [ThinkRepair](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
-- [AUGER](https://github.com/vinci-grape/AUGER), [RATester](), [CasModaTest](), and [JUnitGenie](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
-- [SolEval]() and [PrefGen](): Smart Contract Generation
-- [READ](https://github.com/rui-qian/READ): Reasoning Segmentation
+- [AUGER](https://github.com/vinci-grape/AUGER), [RATester](https://github.com/vinci-grape/RATester), [CasModaTest](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
+- [SolEval](https://github.com/pzy2000/SolEval) and [PrefGen](https://github.com/pzy2000/PrefGen): Smart Contract Generation
+- [READ](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
@@ -118,6 +118,8 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
+- [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2510.03853)<br>
+  Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou, **Arxiv**
 - [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2507.20109)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
