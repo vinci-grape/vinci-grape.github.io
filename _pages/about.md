@@ -118,7 +118,7 @@ In 2025, I will lead or participate in the following research topics:
   In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
-- [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2510.03853)<br>
+- [UGround: Towards Unified Visual Grounding with Unrolled Transformers.](https://arxiv.org/pdf/2510.03853)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou, **Arxiv**
 - [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2507.20109)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
