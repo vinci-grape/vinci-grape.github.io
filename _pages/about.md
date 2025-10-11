@@ -26,12 +26,14 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Agent
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
 - *2025.09*: &nbsp;🎉 Two papers were accepted by APSEC 2025!
 - *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025!
 - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
 - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
+- *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
@@ -142,7 +144,8 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
 # 🎖 Honors and Awards
-- *2025.06*, 浙江大学争创优秀博士学位论文资助 
+- *2025.10*, 浙江大学国家奖学金 (National Scholarship)
+- *2025.06*, 浙江大学争创优秀博士学位论文资助
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE)
