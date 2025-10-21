@@ -17,7 +17,7 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
 - [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
-- [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
+- [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
 - [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
 - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
 
