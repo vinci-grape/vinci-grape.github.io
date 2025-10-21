@@ -14,7 +14,7 @@ redirect_from:
 
 My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP**. I developed a few well-known approaches including:
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
-- [TSE'24](https://github.com/vinci-grape/VulEmpirical) and [EMSE'25](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
+- [[1] (TSE'24)](https://github.com/vinci-grape/VulEmpirical) and [[2] (EMSE'25)](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
 - [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
