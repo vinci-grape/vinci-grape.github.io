@@ -13,13 +13,13 @@ redirect_from:
 **Xin Yin (殷鑫)** is the third-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at Central South University. 
 
 My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP**. I developed a few well-known approaches including:
-- [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): Vulnerability Detection
+- [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
+- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
-- [AUGER](https://github.com/vinci-grape/AUGER), [RATester](https://github.com/vinci-grape/RATester), [CasModaTest](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
-- [SolEval](https://github.com/pzy2000/SolEval) and [PrefGen](https://github.com/pzy2000/PrefGen): Smart Contract Generation
-- [READ](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
+- [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
+- [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
+- [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
