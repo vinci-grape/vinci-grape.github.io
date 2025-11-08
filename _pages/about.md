@@ -30,26 +30,26 @@ In 2025, I will lead or participate in the following research topics:
 - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
-- *2025.09*: &nbsp;🎉 Two papers were accepted by APSEC 2025!
+<!-- - *2025.09*: &nbsp;🎉 Two papers were accepted by APSEC 2025! -->
 - *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025!
 - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
 - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
-- *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025!
+<!-- - *2025.07*: &nbsp;🎉 One paper was accepted by ISSRE 2025! -->
 - *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
 - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
-- *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024!
+<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
 - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
-- *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023!
-- *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022!
+<!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
+<!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">9</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 paper</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 paper</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
