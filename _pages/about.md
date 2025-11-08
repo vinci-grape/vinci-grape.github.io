@@ -27,6 +27,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Code Agent
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
 - *2025.09*: &nbsp;🎉 Two papers were accepted by APSEC 2025!
@@ -63,6 +64,9 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
+  Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu.<br>
+  In *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)*. (<span style="color:red">CCF-A</span>)
 - [Enhancing LLM’s Ability to Generate More Repository-Aware Unit Tests Through Precise Context Injection.](https://vinci-grape.github.io/papers/Enhancing_LLM_s_Ability_to_Generate_More_Repository_Aware_Unit_Tests_Through_Precise_Context_Injection.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Liushan Chen, Guojun Ma, Xiaohu Yang.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
@@ -137,8 +141,6 @@ In 2025, I will lead or participate in the following research topics:
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
 - [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
   Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin, **Arxiv**
-- [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
-  Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu, **Arxiv**
 - [SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models.]()<br>
   Yuqi Li, Yao Lu, Junhao Dong, Zeyu Dong, Chuanguang Yang, <span style="color: blue;">**Xin Yin**</span>, Yihao Chen, Jianping Gou, Yingli Tian, Tingwen Huang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
