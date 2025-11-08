@@ -21,6 +21,7 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 - [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
 - [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
 - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
+- [SepPrune (AAAI'26)](): Speech Separation
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
