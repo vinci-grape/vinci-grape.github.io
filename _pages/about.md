@@ -152,7 +152,7 @@ In 2025, I will lead or participate in the following research topics:
 - *2025.06*, 浙江大学争创优秀博士学位论文资助
 
 # 💬 Academic Services
-- Journal Reviewer: IEEE Transactions on Software Engineering (TSE)
+- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), The Journal of Supercomputing (TJSC)
 - Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026
 
 # 📖 Educations
