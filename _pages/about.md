@@ -74,7 +74,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models.](https://arxiv.org/pdf/2509.23812)<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
-- [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://vinci-grape.github.io/papers/Learning_based_Models_for_Vulnerability_Detection__An_Extensive_Study.pdf)<br>
+- [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://link.springer.com/article/10.1007/s10664-025-10734-x)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
 - [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
