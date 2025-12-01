@@ -108,7 +108,7 @@ In 2025, I will lead or participate in the following research topics:
 ## Peer-Reviewed Publications
 - [JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
-  In *the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26 Demonstrations Track)*. (<span style="color:red">CCF-A</span>)
+  In *48th IEEE/ACM International Conference on Software Engineering (ICSE'26 Demonstrations Track)*. (<span style="color:red">CCF-A</span>)
 - [Enhancing Commit Classification for Software Maintenance with Adversarial Learning.]()<br>
   Xinrui Li, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
   In *Proceddings of the Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
