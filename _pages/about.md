@@ -28,6 +28,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Code Agent
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
 - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
@@ -50,7 +51,7 @@ In 2025, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 paper</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +66,9 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://doi.org/10.1016/j.jss.2025.112744)<br>
+  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang.<br>
+  In *Journal of Systems and Software (JSS'25)*. (<span style="color:red">JCR-Q1</span>)
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
   Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu.<br>
   In *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)*. (<span style="color:red">CCF-A</span>)
