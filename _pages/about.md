@@ -16,7 +16,7 @@ My research interest includes **Large Language Model, Software Testing, and Soft
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [[1] (TSE'24)](https://github.com/vinci-grape/VulEmpirical) and [[2] (EMSE'25)](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix](): Program Repair
+- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix (ICSE'26)](): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
 - [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25, ICSE'26 Demos)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
 - [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
@@ -29,6 +29,7 @@ In 2025, I will lead or participate in the following research topics:
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
+- *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026!
 - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
@@ -69,6 +70,9 @@ In 2025, I will lead or participate in the following research topics:
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://doi.org/10.1016/j.jss.2025.112744)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang.<br>
   In *Journal of Systems and Software (JSS'25)*. (<span style="color:red">JCR-Q1</span>)
+- [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
+  Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin.<br>
+  In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)*. (<span style="color:red">CCF-A</span>)
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
   Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu.<br>
   In *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)*. (<span style="color:red">CCF-A</span>)
@@ -145,8 +149,6 @@ In 2025, I will lead or participate in the following research topics:
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
 - [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
-- [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
-  Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin, **Arxiv**
 - [SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models.]()<br>
   Yuqi Li, Yao Lu, Junhao Dong, Zeyu Dong, Chuanguang Yang, <span style="color: blue;">**Xin Yin**</span>, Yihao Chen, Jianping Gou, Yingli Tian, Tingwen Huang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
