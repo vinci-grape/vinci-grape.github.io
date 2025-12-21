@@ -114,6 +114,7 @@ In 2025, I will lead or participate in the following research topics:
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
+  
 ## Peer-Reviewed Publications
 - [JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
