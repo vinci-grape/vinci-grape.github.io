@@ -28,7 +28,7 @@ In 2025, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Code Agent
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉 We presented **Code Genesis** for complex code generation tasks, refer to [Code Genesis](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
+- *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
 - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
 - *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026!
 - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
