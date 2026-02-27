@@ -116,7 +116,7 @@ In 2026, I will lead or participate in the following research topics:
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
-  Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Dejing Dou.<br>
+  Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
   
 <!-- ## Peer-Reviewed Publications
