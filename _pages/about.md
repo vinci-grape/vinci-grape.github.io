@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). I was grateful to intern or collaborate at Huawei Noah's Ark Lab, ByteDance, Tongyi Lab, and MSRA. I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). 
+**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). <!-- I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). --> I was grateful to intern or collaborate at Huawei Noah's Ark Lab, ByteDance, Tongyi Lab, and MSRA. I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). 
 
 My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI**. I developed a few well-known approaches including:
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
@@ -97,6 +97,9 @@ In 2026, I will lead or participate in the following research topics:
 - [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
   Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin.<br>
   In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)*. (<span style="color:red">CCF-A</span>)
+- [JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
+  Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
+  In *48th IEEE/ACM International Conference on Software Engineering (ICSE'26 Demonstrations Track)*. (<span style="color:red">CCF-A</span>)
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
   Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu.<br>
   In *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)*. (<span style="color:red">CCF-A</span>)
@@ -116,7 +119,7 @@ In 2026, I will lead or participate in the following research topics:
   Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
   
-## Peer-Reviewed Publications
+<!-- ## Peer-Reviewed Publications
 - [JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
   Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
   In *48th IEEE/ACM International Conference on Software Engineering (ICSE'26 Demonstrations Track)*. (<span style="color:red">CCF-A</span>)
@@ -137,9 +140,9 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC'23)*. (<span style="color:red">CCF-B</span>)
 - [Spatio-temporal aware knowledge graph embedding for recommender systems.](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
   Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.<br>
-  In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>)
+  In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>) -->
 
-## Preprints
+<!-- ## Preprints
 - [UGround: Towards Unified Visual Grounding with Unrolled Transformers.](https://arxiv.org/pdf/2510.03853)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou, **Arxiv**
 - [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2507.20109)<br>
@@ -155,7 +158,7 @@ In 2026, I will lead or participate in the following research topics:
 - [SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models.]()<br>
   Yuqi Li, Yao Lu, Junhao Dong, Zeyu Dong, Chuanguang Yang, <span style="color: blue;">**Xin Yin**</span>, Yihao Chen, Jianping Gou, Yingli Tian, Tingwen Huang, **Arxiv**
 - [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
-  <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
+  <span style="color: blue;">**Xin Yin**</span>, **Arxiv** -->
 
 # 🎖 Honors and Awards
 - *2025.10*, 浙江大学国家奖学金 (National Scholarship)
@@ -165,14 +168,14 @@ In 2026, I will lead or participate in the following research topics:
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), The Journal of Supercomputing (TJSC), Automated Software Engineering (ASE)
 - Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2022.09 - Present*, Ph.D. student, Zhejiang University.
-- *2018.09 - 2022.06*, Bachelor, Central South University.
+- *2018.09 - 2022.06*, Bachelor, Central South University. -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - 2025.06*, State Key Laboratory of Blockchain and Data Security, Hangzhou.
+<!-- - *2024.06 - 2025.06*, State Key Laboratory of Blockchain and Data Security, Hangzhou. -->
 - *2023.07 - 2023.10*, Software Engineering Application Technology Lab at Huawei, Hangzhou.
