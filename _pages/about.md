@@ -16,16 +16,18 @@ My research interest includes **Large Language Model, Software Testing, and Codi
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [[1] (TSE'24)](https://github.com/vinci-grape/VulEmpirical) and [[2] (EMSE'25)](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix (ICSE'26)](): Program Repair
+- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix (ICSE'26)](https://github.com/GLEAM-Lab/ReduceFix): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
 - [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25, ICSE'26 Demos)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
 - [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
 - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
-- [SepPrune (AAAI'26)](): Speech Separation
+- [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation
+- [CodeGenesis](https://github.com/modelscope/ms-agent) and [RepoGenesis](https://github.com/pzy2000/RepoGenesis): Coding Agent
 
 In 2026, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
 - Large Language Models (LLMs): Coding Agent
+- Lightweight Training Framework
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
@@ -178,4 +180,4 @@ In 2026, I will lead or participate in the following research topics:
 
 # 💻 Internships
 <!-- - *2024.06 - 2025.06*, State Key Laboratory of Blockchain and Data Security, Hangzhou. -->
-- *2023.07 - 2023.10*, Software Engineering Application Technology Lab at Huawei, Hangzhou.
+- Software Engineering Application Technology Lab at Huawei: Vulnerability Detection and Program Repair
