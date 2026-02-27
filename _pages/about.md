@@ -10,9 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). <!-- I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). --> I was grateful to intern or collaborate at ByteDance, Tongyi Lab, and MSRA. I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). 
-
-My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI**. I developed a few well-known approaches including:
+**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). <!-- I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). --> I was grateful to intern or collaborate at ByteDance, Tongyi Lab, and MSRA. I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI**. I developed a few well-known approaches including:
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
 - [[1] (TSE'24)](https://github.com/vinci-grape/VulEmpirical) and [[2] (EMSE'25)](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
 - [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
