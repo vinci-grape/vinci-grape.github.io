@@ -19,7 +19,7 @@ redirect_from:
 - [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25, ICSE'26 Demos)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
 - [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval), [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen), and [FuzzerMaster (FSE'26)](): Smart Contract
 - [APO (FSE'26)]() and [PlayCoder (FSE'26)](): Code Generation
-<-- - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
+<!-- - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
 - [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation -->
 - [CodeGenesis](https://github.com/modelscope/ms-agent) and [RepoGenesis](https://github.com/pzy2000/RepoGenesis): Coding Agent
 
