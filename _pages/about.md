@@ -28,6 +28,7 @@ In 2026, I will lead or participate in the following research topics:
 - Lightweight Training Framework
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026!
 - *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
 - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
 - *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026!
@@ -53,7 +54,7 @@ In 2026, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">11</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">14</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,6 +69,9 @@ In 2026, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [Aligning with Human Coding Preferences for Improving Code Generation.]()<br>
+  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaohu Yang.<br>
+  In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://doi.org/10.1016/j.jss.2025.112744)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang.<br>
   In *Journal of Systems and Software (JSS'25)*. (<span style="color:red">JCR-Q1</span>)
@@ -94,6 +98,12 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Selected Collaborative Publications
+- [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.]()<br>
+  Qianqian Pang, <span style="color: blue;">**Xin Yin**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
+  In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
+- [PlayCoder: Making LLM-Generated GUI Code Playable.]()<br>
+  Zhiyuan Peng, Wei Tao, <span style="color: blue;">**Xin Yin**</span>, Chenhao Ying, Yuan Luo, Yiwen Guo.<br>
+  In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [Input Reduction Enhanced LLM-based Program Repair.](https://arxiv.org/pdf/2507.15251)<br>
   Boyang Yang, Luyao Ren, <span style="color: blue;">**Xin Yin**</span>, Jiadong Ren, Haoye Tian, Shunfu Jin.<br>
   In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)*. (<span style="color:red">CCF-A</span>)
