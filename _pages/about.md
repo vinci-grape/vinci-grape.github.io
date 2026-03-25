@@ -17,9 +17,10 @@ redirect_from:
 - [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix (ICSE'26)](https://github.com/GLEAM-Lab/ReduceFix): Program Repair
 - [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
 - [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25, ICSE'26 Demos)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
-- [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval) and [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen): Smart Contract Generation
-- [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
-- [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation
+- [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval), [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen), and [FuzzerMaster (FSE'26)](): Smart Contract
+- [APO (FSE'26)]() and [PlayCoder (FSE'26)](): Code Generation
+<-- - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
+- [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation -->
 - [CodeGenesis](https://github.com/modelscope/ms-agent) and [RepoGenesis](https://github.com/pzy2000/RepoGenesis): Coding Agent
 
 In 2026, I will lead or participate in the following research topics:
