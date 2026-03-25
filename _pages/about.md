@@ -166,7 +166,7 @@ In 2026, I will lead or participate in the following research topics:
 
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASE)
-- Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026
+- Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026, NeurIPS 2026
 
 <!-- # 📖 Educations
 - *2022.09 - Present*, Ph.D. student, Zhejiang University.
