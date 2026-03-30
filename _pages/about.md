@@ -175,7 +175,7 @@ In 2026, I will lead or participate in the following research topics:
 - *2025.06*, 浙江大学争创优秀博士学位论文资助
 
 # 💬 Academic Services
-- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), Automated Software Engineering (ASE)
+- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE)
 - Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026, NeurIPS 2026
 
 <!-- # 📖 Educations
