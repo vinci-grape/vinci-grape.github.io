@@ -21,13 +21,14 @@ redirect_from:
 - [APO (FSE'26)]() and [PlayCoder (FSE'26)](): Code Generation
 - [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
 - [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation
-- [CodeGenesis](https://github.com/modelscope/ms-agent) and [RepoGenesis](https://github.com/pzy2000/RepoGenesis): Coding Agent
+- [CodeGenesis](https://github.com/modelscope/ms-agent), [RepoDistill (ACL'26)](), and [RepoGenesis (ACL'26)](https://github.com/pzy2000/RepoGenesis): Coding Agent
 
 In 2026, I will lead or participate in the following research topics:
 - Large Language Models (LLMs): Coding Agent
 - Lightweight Training Framework
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Three papers were accepted by ACL 2026!
 - *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026!
 - *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
 - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
@@ -69,6 +70,9 @@ In 2026, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
+- [RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization.]()<br>
+  <span style="color: blue;">**Xin Yin**</span>, Zixiang Ding, Yiang Zhang, Qiang Wang, Rui Wang, Chao Ni, Zhe Cui.<br>
+  In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
 - [Aligning with Human Coding Preferences for Improving Code Generation.](https://arxiv.org/pdf/2507.20109)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaohu Yang.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
@@ -98,8 +102,14 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Selected Collaborative Publications
+- [RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository.]()<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang.<br>
+  In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)*. (<span style="color:red">CCF-A</span>)
+- [Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction.]()<br>
+  Hao Zhang, Jiahao Wang, Zhenke Duan, <span style="color: blue;">**Xin Yin**</span>, Haichuan Hu, Hualong Chen, SUYI, Congqing He, Yike Tan, Yu-N Cheah.<br>
+  In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
 - [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.]()<br>
-  Qianqian Pang, <span style="color: blue;">**Xin Yin**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
+  Qianqian Pang, <span style="color: blue;">**Xin Yin\#**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [PlayCoder: Making LLM-Generated GUI Code Playable.]()<br>
   Zhiyuan Peng, Wei Tao, <span style="color: blue;">**Xin Yin**</span>, Chenhao Ying, Yuan Luo, Yiwen Guo.<br>
