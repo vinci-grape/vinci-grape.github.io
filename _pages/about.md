@@ -73,8 +73,14 @@ In 2026, I will lead or participate in the following research topics:
 - [RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization.]()<br>
   <span style="color: blue;">**Xin Yin**</span>, Zixiang Ding, Yiang Zhang, Qiang Wang, Rui Wang, Chao Ni, Zhe Cui.<br>
   In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
+- [RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository.]()<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang.<br>
+  In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)*. (<span style="color:red">CCF-A</span>)
 - [Aligning with Human Coding Preferences for Improving Code Generation.](https://arxiv.org/pdf/2507.20109)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaohu Yang.<br>
+  In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
+- [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.]()<br>
+  Qianqian Pang, <span style="color: blue;">**Xin Yin\#**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://doi.org/10.1016/j.jss.2025.112744)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xinrui Li, Xiaohu Yang.<br>
@@ -85,6 +91,12 @@ In 2026, I will lead or participate in the following research topics:
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://link.springer.com/article/10.1007/s10664-025-10734-x)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
+- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
+  In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
+- [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://arxiv.org/pdf/2506.03006v3)<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
+  In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Xiaodan Xu, Zhi Yu.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
@@ -102,15 +114,9 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Selected Collaborative Publications
-- [RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository.]()<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang.<br>
-  In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)*. (<span style="color:red">CCF-A</span>)
 - [Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction.]()<br>
   Hao Zhang, Jiahao Wang, Zhenke Duan, <span style="color: blue;">**Xin Yin**</span>, Haichuan Hu, Hualong Chen, SUYI, Congqing He, Yike Tan, Yu-N Cheah.<br>
   In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
-- [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.]()<br>
-  Qianqian Pang, <span style="color: blue;">**Xin Yin\#**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
-  In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [PlayCoder: Making LLM-Generated GUI Code Playable.]()<br>
   Zhiyuan Peng, Wei Tao, <span style="color: blue;">**Xin Yin**</span>, Chenhao Ying, Yuan Luo, Yiwen Guo.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
@@ -129,12 +135,6 @@ In 2026, I will lead or participate in the following research topics:
 - [Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment.]()<br>
   Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
-- [SolEval: Benchmarking Large Language Models for Repository-level Solidity Smart Contract Generation.](https://vinci-grape.github.io/papers/SolEval__Benchmarking_Large_Language_Models_for_Repository_level_Solidity_Code_Generation.pdf)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Rui Qian, Peiqin Lin, YongKang Liu, Hao Zhang, Chenhao Ying, Yuan Luo.<br>
-  In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
-- [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://arxiv.org/pdf/2506.03006v3)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
-  In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
