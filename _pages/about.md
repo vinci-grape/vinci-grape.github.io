@@ -33,24 +33,24 @@ In 2026, I will lead or participate in the following research topics:
 - Lightweight Training Framework
 
 # 🔥 News
-<!-- - *2026.04*: &nbsp;🎉 Three papers were accepted by ACL 2026!
-- *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026! -->
+- *2026.04*: &nbsp;🎉 Three papers were accepted by ACL 2026!
+- *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026!
 - *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
-<!-- - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
+- *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025!
 - *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026!
-- *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026! -->
+- *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026!
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
-<!-- - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
+- *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025!
 - *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025!
 - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main!
-- *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025! -->
+- *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
-<!-- - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
+- *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
 - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
-- *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! -->
+- *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023!
 
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
