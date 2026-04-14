@@ -35,7 +35,7 @@ In 2026, I will lead or participate in the following research topics:
 # 🔥 News
 <!-- - *2026.04*: &nbsp;🎉 Three papers were accepted by ACL 2026! -->
 <!-- - *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026! -->
-- *2026.02*: &nbsp;🎉 We released [**Code Genesis**](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!
+- *2026.02*: &nbsp;🎉 <span style="color: blue;">**We released [Code Genesis](https://github.com/modelscope/ms-agent/blob/main/projects/code_genesis/TECH_REPORT.md) project in MS-Agent (ModelScope Team, Tongyi Lab) [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent)!**</span>
 <!-- - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025! -->
 <!-- - *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026! -->
 <!-- - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026! -->
