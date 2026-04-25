@@ -70,10 +70,10 @@ In 2026, I will lead or participate in the following research topics:
 </div> -->
 
 ## Selected Publications
-- [RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization.]()<br>
+- [RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization.](https://vinci-grape.github.io/papers/RepoDistill_Distilling%20Repository%20Knowledge%20through%20Reinforcement-Guided%20Context%20Compression.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Zixiang Ding, Yiang Zhang, Qiang Wang, Rui Wang, Chao Ni, Zhe Cui.<br>
   In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
-- [Aligning with Human Coding Preferences for Improving Code Generation.](https://arxiv.org/pdf/2507.20109)<br>
+- [Aligning with Human Coding Preferences for Improving Code Generation.](https://vinci-grape.github.io/papers/Aligning%20with%20Human%20Coding%20Preferences%20for%20Improving%20Code%20Generation.pdf)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Xiaohu Yang.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [Improving the Ability of Pre-trained Language Model by Imparting Large Language Model's Experience.](https://doi.org/10.1016/j.jss.2025.112744)<br>
@@ -108,7 +108,7 @@ In 2026, I will lead or participate in the following research topics:
 - [Tree-CoT-RT: An Explainable Multi-Path Tree-Guided Chain-of-Thought and Reinforcement Learning Framework for Aspect Sentiment Quad Prediction.]()<br>
   Hao Zhang, Jiahao Wang, Zhenke Duan, <span style="color: blue;">**Xin Yin**</span>, Haichuan Hu, Hualong Chen, SUYI, Congqing He, Yike Tan, Yu-N Cheah.<br>
   In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Findings)*. (<span style="color:red">CCF-A</span>)
-- [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.]()<br>
+- [Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing.](https://vinci-grape.github.io/papers/Adaptive%20Mutation%20Scheduling%20with%20Deep%20Reinforcement%20Learning%20for%20Smart%20Contract%20Fuzzing.pdf)<br>
   Qianqian Pang, <span style="color: blue;">**Xin Yin\#**</span>, Tingting Bi, Lingfeng Bao, Chao Ni, Xiaohu Yang.<br>
   In *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*. (<span style="color:red">CCF-A</span>)
 - [PlayCoder: Making LLM-Generated GUI Code Playable.]()<br>
