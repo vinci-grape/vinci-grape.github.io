@@ -55,7 +55,7 @@ In 2026, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">18</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">19</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
