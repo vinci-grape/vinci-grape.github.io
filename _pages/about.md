@@ -13,7 +13,7 @@ redirect_from:
 **Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). <!-- I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). --> I was grateful to intern or collaborate at ByteDance, Tongyi Lab, and MSRA. 
 <!-- I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). -->
 I was a core developer on **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent), where I led core work on the agent foundation framework and owned the architecture and design of **Code Genesis, the Coding Agent project for end-to-end, production-ready software generation**.
-My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI/ACL**. 
+My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI/ACL/ICML**. 
 
 <!-- I developed a few well-known approaches including:
 - [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
@@ -102,6 +102,9 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Selected Collaborative Publications
+- [UGround: Towards Unified Visual Grounding with Unrolled Transformers.]()<br>
+  Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br>
+  In *Proceedings of the 43rd International Conference on Machine Learning (ICML'26)*. (<span style="color:red">CCF-A</span>)
 - [RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository.]()<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang.<br>
   In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL'26 Main)*. (<span style="color:red">CCF-A</span>)
