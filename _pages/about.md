@@ -55,7 +55,7 @@ In 2026, I will lead or participate in the following research topics:
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">19</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">20</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,6 +102,9 @@ In 2026, I will lead or participate in the following research topics:
   In *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE'23)*. (<span style="color:red">CCF-A</span>)
 
 ## Selected Collaborative Publications
+- [Hunk-Constrained DPO: Segment-Level Optimization for Secure and Correct LLM Code Generation.]()<br>
+  Qianshuo Huang, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Chao Ni.<br>
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM'26)*. (<span style="color:red">CCF-A</span>)
 - [UGround: Towards Unified Visual Grounding with Unrolled Transformers.]()<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br>
   In *Proceedings of the 43rd International Conference on Machine Learning (ICML'26)*. (<span style="color:red">CCF-A</span>)
