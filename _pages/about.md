@@ -103,7 +103,7 @@ In 2026, I will lead or participate in the following research topics:
 
 ## Selected Collaborative Publications
 - [Hunk-Constrained DPO: Segment-Level Optimization for Secure and Correct LLM Code Generation.]()<br>
-  Qianshuo Huang, <span style="color: blue;">**Xin Yin\#**</span>, Xinrui Li, Chao Ni.<br>
+  Qianshuo Huang, <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'26)*. (<span style="color:red">CCF-A</span>)
 - [UGround: Towards Unified Visual Grounding with Unrolled Transformers.]()<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br>
