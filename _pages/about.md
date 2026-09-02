@@ -52,12 +52,10 @@ In 2026, I will lead or participate in the following research topics:
 <!-- - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! -->
 
 # 💼 Experience
-
-**StepFun**  
-<span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
-
-**Tongyi Lab**  
-<span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
+- **StepFun**  
+  <span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
+- **Tongyi Lab**  
+  <span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
 
 # 📝 Publications
 <!-- **\# denotes co-first author or first student author** -->
