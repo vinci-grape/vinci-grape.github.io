@@ -28,7 +28,7 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 <li><strong>Tongyi Lab</strong><br>
 <span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
 <ul style="list-style:none;margin:0.35em 0 0;padding-left:0;">
-<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/modelscope/ms-agent"><strong>MS-Agent</strong></a> <a href="https://github.com/modelscope/ms-agent"><img src="https://img.shields.io/github/stars/modelscope/ms-agent?style=social" alt="MS-Agent stars"></a>: core developer, leading <strong>Code Genesis</strong> and code-model post-training for long-horizon coding agents</li>
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/modelscope/ms-agent"><strong>MS-Agent</strong></a> <a href="https://github.com/modelscope/ms-agent"><img src="https://img.shields.io/github/stars/modelscope/ms-agent?style=social" alt="MS-Agent stars"></a>: core developer, leading <strong>Code Genesis</strong> and post-training for long-horizon coding agents</li>
 <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/modelscope/ultron"><strong>Ultron</strong></a> <a href="https://github.com/modelscope/ultron"><img src="https://img.shields.io/github/stars/modelscope/ultron?style=social" alt="Ultron stars"></a>: led self-evolving multi-agent memory, skills, and a shared Harness</li>
 <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/datawhalechina/hello-agents"><strong>Hello-Agents</strong></a> <a href="https://github.com/datawhalechina/hello-agents"><img src="https://img.shields.io/github/stars/datawhalechina/hello-agents?style=social" alt="Hello-Agents stars"></a>: core contributor on agent self-evolution</li>
 </ul>
@@ -61,14 +61,6 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 - [ThinkRepair: Self-Directed Automated Program Repair.](https://arxiv.org/pdf/2407.20898)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang.<br>
   In *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)*. (<span style="color:red">CCF-A</span>)
-<!--
-- [Chronos Enables Code Agents to Reason over Software Evolution.]()<br>
-  <span style="color: blue;">**Xin Yin**</span>, Yiang Zhang, Ruoyun Dai, Zhiyuan Peng, Chao Ni, Zhe Cui, Jianwei Yin. (<span style="color:red">Under Review</span>)
-- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang. (<span style="color:red">Under Review</span>)
-- [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang. (<span style="color:red">Under Review</span>)
--->
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://link.springer.com/article/10.1007/s10664-025-10734-x)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
@@ -90,18 +82,6 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://arxiv.org/pdf/2506.03006v3)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
-<!--
-- [EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?]()<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Zhe Cui, Zixiang Ding, Zhenhua Liu, Jiang Wu, Yuan Luo. (<span style="color:red">Under Review</span>)
-- [Are Agents Leaving Your Code Messy? Refactoring for Post-Repair Hardening.]()<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Zhe Cui, Yue Lu, Heng Yang, Zeqi Tan, Yuan Luo. (<span style="color:red">Under Review</span>)
-- [MulChain: A Cross-Modal Middleware in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chen Wei, Chenhao Ying, Chao Ni, Yuan Luo. (<span style="color:red">Under Review</span>)
-- [Multi-Agent Code Translation with Repository-aware Contextual Retrieval and Iterative Refinement.](http://arxiv.org/pdf/2508.17720)<br>
-  Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni. (<span style="color:red">Under Review</span>)
-- [Towards Multi-Objective Optimized Unit Test Generation with Reinforcement Learning.]()<br>
-  Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Chao Ni. (<span style="color:red">Under Review</span>)
--->
 
 ## Selected Collaborative Publications
 - [Breaking Waiting: Accelerating Android GUI Testing via Widget Readiness Analysis.]()<br>
@@ -154,3 +134,24 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Empirical Software Engineering (EMSE), Automated Software Engineering (ASE)
 - Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026, NeurIPS 2026, AAAI 2027 (PC), ICLR 2027
+
+{% comment %}
+Under Review (hidden from the page)
+
+- [Chronos Enables Code Agents to Reason over Software Evolution.]()<br>
+  <span style="color: blue;">**Xin Yin**</span>, Yiang Zhang, Ruoyun Dai, Zhiyuan Peng, Chao Ni, Zhe Cui, Jianwei Yin. (<span style="color:red">Under Review</span>)
+- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
+  <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang. (<span style="color:red">Under Review</span>)
+- [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
+  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang. (<span style="color:red">Under Review</span>)
+- [EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?]()<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Zhe Cui, Zixiang Ding, Zhenhua Liu, Jiang Wu, Yuan Luo. (<span style="color:red">Under Review</span>)
+- [Are Agents Leaving Your Code Messy? Refactoring for Post-Repair Hardening.]()<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Zhe Cui, Yue Lu, Heng Yang, Zeqi Tan, Yuan Luo. (<span style="color:red">Under Review</span>)
+- [MulChain: A Cross-Modal Middleware in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
+  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chen Wei, Chenhao Ying, Chao Ni, Yuan Luo. (<span style="color:red">Under Review</span>)
+- [Multi-Agent Code Translation with Repository-aware Contextual Retrieval and Iterative Refinement.](http://arxiv.org/pdf/2508.17720)<br>
+  Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni. (<span style="color:red">Under Review</span>)
+- [Towards Multi-Objective Optimized Unit Test Generation with Reinforcement Learning.]()<br>
+  Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Chao Ni. (<span style="color:red">Under Review</span>)
+{% endcomment %}
