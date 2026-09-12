@@ -10,15 +10,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I was grateful to intern or collaborate at StepFun, Tongyi Lab, ByteDance, and MSRA. 
-My research interest includes **Large Language Model, Coding Agent, and Post-Train**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI/ACL/ICML**. 
+**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/).
+My research interest includes **Large Language Model, Coding Agent, and Post-Train**.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 <span style="color: blue;">**[Kimi K2.8 Preview](https://www.kimi.com/code/docs/en/kimi-code/whats-new.html) is coming!**</span>
+- *2026.08*: &nbsp;🎉 <span style="color: blue;">**[Kimi K3](https://www.kimi.com/en/blog/kimi-k3) is coming!**</span>
+- *2026.05*: &nbsp;🎉 <span style="color: blue;">**[Step 3.7 Flash](https://static.stepfun.com/blog/step-3.7-flash/) is coming!**</span>
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
 - *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
 
 # 💼 Experience
 <ul>
+<li><strong>Moonshot AI</strong><br>
+<span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
+<ul style="list-style:none;margin:0.35em 0 0;padding-left:0;">
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://www.kimi.com/code/docs/en/kimi-code/whats-new.html"><strong>Kimi K2.8 Preview</strong></a>: Performance close to K3, with more efficient thinking</li>
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://www.kimi.com/en/blog/kimi-k3"><strong>Kimi K3</strong></a>: Open Frontier Intelligence</li>
+</ul>
+</li>
 <li><strong>StepFun</strong><br>
 <span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
 <ul style="list-style:none;margin:0.35em 0 0;padding-left:0;">
