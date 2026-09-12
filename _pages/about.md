@@ -10,69 +10,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). <!-- I also obtained Bachelor’s degree at [Central South University](https://en.csu.edu.cn/). --> I was grateful to intern or collaborate at StepFun, Tongyi Lab, ByteDance, and MSRA. 
-<!-- I was the core developer of the **Code Genesis** project in **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent). -->
-I was a core developer on **MS-Agent (ModelScope Team, Tongyi Lab)** [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social&label=Code+Stars)](https://github.com/modelscope/ms-agent), where I led core work on the agent foundation framework and owned the architecture and design of **Code Genesis, the Coding Agent project for end-to-end, production-ready software generation**.
-My research interest includes **Large Language Model, Software Testing, and Coding Agent**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI/ACL/ICML**. 
-
-<!-- I developed a few well-known approaches including:
-- [SVulD (FSE'23)](https://github.com/vinci-grape/SVulD) and [MVulD (TOSEM'25)](https://github.com/vinci-grape/MVulD): Vulnerability Detection
-- [[1] (TSE'24)](https://github.com/vinci-grape/VulEmpirical) and [[2] (EMSE'25)](https://github.com/vinci-grape/Learning-based-Models-for-VD): Empirical Study of Vulnerability
-- [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair (ISSTA'24)](https://github.com/vinci-grape/ThinkRepair) and [ReduceFix (ICSE'26)](https://github.com/GLEAM-Lab/ReduceFix): Program Repair
-- [Rectifier](https://github.com/vinci-grape/Rectifier) and [RepoTransAgent](): Code Translation
-- [AUGER (ICSE'25)](https://github.com/vinci-grape/AUGER), [RATester (ASE'25)](https://github.com/vinci-grape/RATester), [CasModaTest (ISSRE'25)](https://github.com/XiaoyaWang-gh/CasModa), and [JUnitGenie (ASE'25, ICSE'26 Demos)](https://github.com/Dianshu-Liao/JUnitGenie): Unit Test Generation
-- [SolEval (EMNLP'25)](https://github.com/pzy2000/SolEval), [PrefGen (ASE'25)](https://github.com/pzy2000/PrefGen), and [FuzzerMaster (FSE'26)](): Smart Contract
-- [APO (FSE'26)]() and [PlayCoder (FSE'26)](): Code Generation
-- [READ (CVPR'25)](https://github.com/rui-qian/READ) and [UGround](https://github.com/rui-qian/UGround): Reasoning Segmentation
-- [SepPrune (AAAI'26)](https://github.com/itsnotacie/SepPrune): Speech Separation
-- [CodeGenesis](https://github.com/modelscope/ms-agent), [RepoDistill (ACL'26)](), and [RepoGenesis (ACL'26)](https://github.com/pzy2000/RepoGenesis): Coding Agent -->
-
-In 2026, I will lead or participate in the following research topics:
-- Large Language Models (LLMs): Coding Agent
-- Lightweight Training Framework
+**Xin Yin (殷鑫)** is the fourth-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Chao Ni](https://jacknichao.github.io/). I was grateful to intern or collaborate at StepFun, Tongyi Lab, ByteDance, and MSRA. 
+My research interest includes **Large Language Model, Coding Agent, and Post-Train**. I have published papers at the top international conferences such as **FSE/ISSTA/ICSE/ASE/CVPR/EMNLP/AAAI/ACL/ICML**. 
 
 # 🔥 News
-<!-- - *2026.04*: &nbsp;🎉 Three papers were accepted by ACL 2026! -->
-<!-- - *2026.03*: &nbsp;🎉 Three papers were accepted by FSE 2026! -->
-<!-- - *2025.12*: &nbsp;🎉 One paper was accepted by JSS 2025! -->
-<!-- - *2025.12*: &nbsp;🎉 One paper was accepted by ICSE 2026! -->
-<!-- - *2025.11*: &nbsp;🎉 One paper was accepted by AAAI 2026! -->
 - *2025.10*: &nbsp;🎉 <span style="color: blue;">**I am awarded National Scholarship!**</span>
-<!-- - *2025.09*: &nbsp;🎉 Two papers were accepted by ASE 2025! -->
-<!-- - *2025.09*: &nbsp;🎉 One paper was accepted by EMSE 2025! -->
-<!-- - *2025.08*: &nbsp;🎉 Two papers were accepted by EMNLP 2025 Main! -->
-<!-- - *2025.08*: &nbsp;🎉 One paper was accepted by ASE 2025! -->
 - *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
-<!-- - *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025! -->
-<!-- - *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025! -->
-<!-- - *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025! -->
-<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024! -->
-<!-- - *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024! -->
-<!-- - *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! -->
 
 # 💼 Experience
 - **StepFun**  
   <span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
 - **Tongyi Lab**  
-  <span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
+  <span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>  
+  Core developer of [**MS-Agent**](https://github.com/modelscope/ms-agent) [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social)](https://github.com/modelscope/ms-agent), leading **Code Genesis** and code-model post-training for long-horizon coding agents; led [**Ultron**](https://github.com/modelscope/ultron) [![](https://img.shields.io/github/stars/modelscope/ultron?style=social)](https://github.com/modelscope/ultron) on self-evolving multi-agent memory, skills, and a shared Harness; core contributor to [**Hello-Agents**](https://github.com/datawhalechina/hello-agents) [![](https://img.shields.io/github/stars/datawhalechina/hello-agents?style=social)](https://github.com/datawhalechina/hello-agents) on agent self-evolution.
 
 # 📝 Publications
-<!-- **\# denotes co-first author or first student author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">22</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+<span style="color:blue">Representative papers:</span> <span style="color:red">23</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">TH-CPL-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 
 ## Selected Publications
 - [RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization.](https://vinci-grape.github.io/papers/RepoDistill_Distilling%20Repository%20Knowledge%20through%20Reinforcement-Guided%20Context%20Compression.pdf)<br>
@@ -153,6 +107,9 @@ In 2026, I will lead or participate in the following research topics:
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
   In *Proceedings of the 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
+- [MOCA: A Hierarchical Semantic-Enhanced Code Edit Framework for Multilingual Code Co-Evolution.]()<br>
+  Zhihao Gong, Zeyu Sun, <span style="color: blue;">**Xin Yin**</span>, Yizhou Chen, Qingyuan Liang, Guoqing Wang, Jie Zhang, Dan Hao.<br>
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM'26)*. (<span style="color:red">CCF-A</span>)
 - [SepPrune: Structured Pruning for Efficient Deep Speech Separation.](https://arxiv.org/pdf/2505.12079)<br>
   Yuqi Li, Kai Li, <span style="color: blue;">**Xin Yin**</span>, Zhifei Yang, Junhao Dong, Zeyu Dong, Chuanguang Yang, Yingli Tian, Yao Lu.<br>
   In *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)*. (<span style="color:red">CCF-A</span>)
@@ -175,47 +132,6 @@ In 2026, I will lead or participate in the following research topics:
   Tong Zhang, Kuofeng Gao, Jiawang Bai, Leo Yu Zhang, <span style="color: blue;">**Xin Yin**</span>, Zonghui Wang, Shouling Ji, Wenzhi Chen.<br>
   In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25 Main)*. (<span style="color:red">TH-CPL-A</span>)
 
-<!-- ## Peer-Reviewed Publications
-- [JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models.]()<br>
-  Dianshu Liao, <span style="color: blue;">**Xin Yin**</span>, Shidong Pan, Chao Ni, Zhenchang Xing, Xiaoyu Sun.<br>
-  In *48th IEEE/ACM International Conference on Software Engineering (ICSE'26 Demonstrations Track)*. (<span style="color:red">CCF-A</span>)
-- [Enhancing Commit Classification for Software Maintenance with Adversarial Learning.]()<br>
-  Xinrui Li, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
-  In *Proceddings of the Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
-- [Reliable Code Generation with Test Case Prioritization and Cognitive Validation.]()<br>
-  Lingyun Huang, <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni.<br>
-  In *Proceddings of the Asia-Pacific Software Engineering Conference (APSEC'25)*. (<span style="color:red">CCF-C</span>)
-- [A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs.](https://vinci-grape.github.io/papers/A_Cascaded_Pipeline_for_Self_Directed__Model_Agnostic_Unit_Test_Generation_via_LLMs.pdf)<br>
-  Chao Ni, Xiaoya Wang, <span style="color: blue;">**Xin Yin**</span>, Liushan Chen, Guojun Ma.<br>
-  In *Proceedings of the IEEE International Symposium on Software Reliability Engineering (ISSRE'25)*. (<span style="color:red">CCF-B</span>)
-- [Automatic Commit Range Identification of Untagged Version.](https://ieeexplore.ieee.org/abstract/document/10967335)<br>
-  Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni.<br>
-  In *Proceedings of the Asia-Pacific Software Engineering Conference (APSEC'24)*. (<span style="color:red">CCF-C</span>)
-- [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic.](https://ieeexplore.ieee.org/abstract/document/10174072)<br>
-  Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang.<br>
-  In *Proceedings of the IEEE/ACM International Conference on Program Comprehension (ICPC'23)*. (<span style="color:red">CCF-B</span>)
-- [Spatio-temporal aware knowledge graph embedding for recommender systems.](https://ieeexplore.ieee.org/abstract/document/10070740)<br>
-  Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang.<br>
-  In *Proceedings of the IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA'22)*. (<span style="color:red">CCF-C</span>) -->
-
-<!-- ## Preprints
-- [UGround: Towards Unified Visual Grounding with Unrolled Transformers.](https://arxiv.org/pdf/2510.03853)<br>
-  Rui Qian, <span style="color: blue;">**Xin Yin\#**</span>, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou, **Arxiv**
-- [Learning to Align Human Code Preferences.](https://arxiv.org/pdf/2507.20109)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Liushan Chen, Xiaohu Yang, **Arxiv**
-- [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang, **Arxiv**
-- [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
-  <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang, **Arxiv**
-- [RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation.](http://arxiv.org/pdf/2508.17720)<br>
-  Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni, **Arxiv**
-- [MulChain: Enabling Advanced Cross-Modal Queries in Hybrid-Storage Blockchains.](https://arxiv.org/pdf/2502.18258)<br>
-  Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Gang Wang, Chenhao Ying, Chao Ni, Wei Chen, Xikun Jiang, Yibin Xu, Yuan Luo, **Arxiv**
-- [SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models.]()<br>
-  Yuqi Li, Yao Lu, Junhao Dong, Zeyu Dong, Chuanguang Yang, <span style="color: blue;">**Xin Yin**</span>, Yihao Chen, Jianping Gou, Yingli Tian, Tingwen Huang, **Arxiv**
-- [Pros and Cons! Evaluating ChatGPT on Software Vulnerability.](https://arxiv.org/pdf/2404.03994)<br>
-  <span style="color: blue;">**Xin Yin**</span>, **Arxiv** -->
-
 # 🎖 Honors and Awards
 - *2025.10*, 浙江大学国家奖学金 (National Scholarship)
 - *2025.06*, 浙江大学争创优秀博士学位论文资助
@@ -223,15 +139,3 @@ In 2026, I will lead or participate in the following research topics:
 # 💬 Academic Services
 - Journal Reviewer: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Empirical Software Engineering (EMSE), Automated Software Engineering (ASE)
 - Conference Reviewer: ICSE 2026 (Shadow PC), AAAI 2026 (PC), ICLR 2026, NeurIPS 2026, AAAI 2027 (PC), ICLR 2027
-
-<!-- # 📖 Educations
-- *2022.09 - Present*, Ph.D. student, Zhejiang University.
-- *2018.09 - 2022.06*, Bachelor, Central South University. -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2024.06 - 2025.06*, State Key Laboratory of Blockchain and Data Security, Hangzhou.
-- Software Engineering Application Technology Lab at Huawei: Vulnerability Detection and Program Repair  -->
