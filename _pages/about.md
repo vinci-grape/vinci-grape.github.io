@@ -18,18 +18,22 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 - *2025.06*: &nbsp;🎉 <span style="color: blue;">**I am funded by Zhejiang University's Program for Cultivating Outstanding Doctoral Dissertations!**</span>
 
 # 💼 Experience
-- **StepFun**  
-  <span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
-  <ul markdown="1" style="list-style:none;margin:0.35em 0 0;padding-left:0;">
-  <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span>[**Step 3.7 Flash**](https://static.stepfun.com/blog/step-3.7-flash/): A high-efficiency Flash model for real-world agents</li>
-  </ul>
-- **Tongyi Lab**  
-  <span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
-  <ul markdown="1" style="list-style:none;margin:0.35em 0 0;padding-left:0;">
-  <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span>[**MS-Agent**](https://github.com/modelscope/ms-agent) [![](https://img.shields.io/github/stars/modelscope/ms-agent?style=social)](https://github.com/modelscope/ms-agent): core developer, leading **Code Genesis** and code-model post-training for long-horizon coding agents</li>
-  <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span>[**Ultron**](https://github.com/modelscope/ultron) [![](https://img.shields.io/github/stars/modelscope/ultron?style=social)](https://github.com/modelscope/ultron): led self-evolving multi-agent memory, skills, and a shared Harness</li>
-  <li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span>[**Hello-Agents**](https://github.com/datawhalechina/hello-agents) [![](https://img.shields.io/github/stars/datawhalechina/hello-agents?style=social)](https://github.com/datawhalechina/hello-agents): core contributor on agent self-evolution</li>
-  </ul>
+<ul>
+<li><strong>StepFun</strong><br>
+<span style="color:#666;">Research Intern · Agentic Coding & LLM Post-training</span>
+<ul style="list-style:none;margin:0.35em 0 0;padding-left:0;">
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://static.stepfun.com/blog/step-3.7-flash/"><strong>Step 3.7 Flash</strong></a>: A high-efficiency Flash model for real-world agents</li>
+</ul>
+</li>
+<li><strong>Tongyi Lab</strong><br>
+<span style="color:#666;">Research Intern · Agent Framework & LLM Post-training</span>
+<ul style="list-style:none;margin:0.35em 0 0;padding-left:0;">
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/modelscope/ms-agent"><strong>MS-Agent</strong></a> <a href="https://github.com/modelscope/ms-agent"><img src="https://img.shields.io/github/stars/modelscope/ms-agent?style=social" alt="MS-Agent stars"></a>: core developer, leading <strong>Code Genesis</strong> and code-model post-training for long-horizon coding agents</li>
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/modelscope/ultron"><strong>Ultron</strong></a> <a href="https://github.com/modelscope/ultron"><img src="https://img.shields.io/github/stars/modelscope/ultron?style=social" alt="Ultron stars"></a>: led self-evolving multi-agent memory, skills, and a shared Harness</li>
+<li style="position:relative;padding-left:1.15em;margin:0.2em 0;"><span style="position:absolute;left:0;top:0.42em;width:0;height:0;border-style:solid;border-width:0.32em 0 0.32em 0.48em;border-color:transparent transparent transparent currentColor;"></span><a href="https://github.com/datawhalechina/hello-agents"><strong>Hello-Agents</strong></a> <a href="https://github.com/datawhalechina/hello-agents"><img src="https://img.shields.io/github/stars/datawhalechina/hello-agents?style=social" alt="Hello-Agents stars"></a>: core contributor on agent self-evolution</li>
+</ul>
+</li>
+</ul>
 
 # 📝 Publications
 <span style="color:#ff00fc">**\# denotes co-first author or first student author**</span>  
