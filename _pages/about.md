@@ -61,12 +61,14 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 - [ThinkRepair: Self-Directed Automated Program Repair.](https://arxiv.org/pdf/2407.20898)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Shaohua Wang, Zhenhao Li, Limin Zeng, Xiaohu Yang.<br>
   In *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24)*. (<span style="color:red">CCF-A</span>)
+<!--
 - [Chronos Enables Code Agents to Reason over Software Evolution.]()<br>
   <span style="color: blue;">**Xin Yin**</span>, Yiang Zhang, Ruoyun Dai, Zhiyuan Peng, Chao Ni, Zhe Cui, Jianwei Yin. (<span style="color:red">Under Review</span>)
 - [Detecting LLM-generated Code with Subtle Modification by Adversarial Training.](https://arxiv.org/pdf/2507.13123)<br>
   <span style="color: blue;">**Xin Yin**</span>, Xinrui Li, Chao Ni, Xiaodan Xu, Xiaohu Yang. (<span style="color:red">Under Review</span>)
 - [Rectifier: Code Translation with Corrector via LLMs.](https://arxiv.org/pdf/2407.07472)<br>
   <span style="color: blue;">**Xin Yin**</span>, Chao Ni, Tien N. Nguyen, Shaohua Wang, Xiaohu Yang. (<span style="color:red">Under Review</span>)
+-->
 - [Learning-based Models for Vulnerability Detection: An Extensive Study.](https://link.springer.com/article/10.1007/s10664-025-10734-x)<br>
   <span style="color: #ff00fc;">Chao Ni</span>, <span style="color: blue;">**Xin Yin\#**</span>, Liyu Shen, Shaohua Wang.<br>
   In *Empirical Software Engineering (EMSE'25)*. (<span style="color:red">JCR-Q1</span>)
@@ -88,6 +90,7 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation.](https://arxiv.org/pdf/2506.03006v3)<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Zijie Zhou, Chenhao Ying, Chao Ni, Yuan Luo.<br>
   In *Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
+<!--
 - [EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?]()<br>
   Zhiyuan Peng, <span style="color: blue;">**Xin Yin\#**</span>, Chenhao Ying, Zhe Cui, Zixiang Ding, Zhenhua Liu, Jiang Wu, Yuan Luo. (<span style="color:red">Under Review</span>)
 - [Are Agents Leaving Your Code Messy? Refactoring for Post-Repair Hardening.]()<br>
@@ -98,6 +101,7 @@ My research interest includes **Large Language Model, Coding Agent, and Post-Tra
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Zhiyuan Peng, Chao Ni. (<span style="color:red">Under Review</span>)
 - [Towards Multi-Objective Optimized Unit Test Generation with Reinforcement Learning.]()<br>
   Ziqi Guan, <span style="color: blue;">**Xin Yin\#**</span>, Chao Ni. (<span style="color:red">Under Review</span>)
+-->
 
 ## Selected Collaborative Publications
 - [Breaking Waiting: Accelerating Android GUI Testing via Widget Readiness Analysis.]()<br>
